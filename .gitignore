@@ -91,3 +91,4 @@ cmocka/
 zig-cache/
 zig-out/
 .cache
+.vs
